@@ -1,2 +1,2 @@
 # Sound-of-Sine
-A piece of code to 'listen' to the sound of sine curves (or any curve) using python.
+A piece of code to 'listen' to and visualize the sine curves (or any curve) using python.
